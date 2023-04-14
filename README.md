@@ -1,6 +1,5 @@
-# pertemuan_v
+# Tugas Pertemuan 07
 
-Base Code Pertemuan Lima Sesuai Video
 
 ## Getting Started
 
