@@ -32,8 +32,8 @@ class User {
       name: "Kelompok 1 Kelas B",
       username: "kelompok1",
       email: "kelompok1@gmail.com",
-      profilePhoto: "https://ibb.co/G7pt01c",
-      phoneNumber: "0887774512",
+      profilePhoto: "https://media.matamata.com/thumbs/2022/02/15/69258-potret-ragil-mahardika-instagramragilmahardika/745x489-img-69258-potret-ragil-mahardika-instagramragilmahardika.jpg",
+      phoneNumber: "0887774512112",
     );
   }
 }
