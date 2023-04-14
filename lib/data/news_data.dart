@@ -4,55 +4,60 @@ List<News> newsList = [
   News(
     id: 1,
     title:
-        "Warga yang Lawan Pecalang saat Nyepi Dimediasi Tapi Belum Capai Kesepakatan",
+        "Gempa 6,6 M di Tuban, BMKG Imbau Warga Waspada Potensi Gempa Susulan",
     image:
-        "https://media.suara.com/pictures/653x366/2022/02/24/77463-ilustrasi-mengenal-4-prosesi-dan-makna-hari-raya-nyepi-bagi-umat-hindu-freepik.webp",
+        "https://awsimages.detik.net.id/community/media/visual/2021/02/16/gempa-di-tuban_43.jpeg?w=700&q=90",
     content: '''
-Pada saat perayaan Hari Nyepi di Bali yang jatuh pada Rabu (22/3/2023) lalu, umat Hindu dan seluruh warga Bali diharap untuk tidak bepergian, terlebih dengan kendaraan bermotor.
+BPBD Jawa Timur mencatat ada gempa susulan hingga dua kali di dua titik yang berbeda. Yakni, di Bangkalan, Jawa Timur, pukul 17.37 dengan kekuatan 5,5 SR di 85 km Timur Laut Bangkalan. Lalu, gempa 3,4 SR, pukul 18.52 di 18 km Barat Laut Tuban.
 
-Hal ini merupakan aturan yang sudah berjalan sejak lama dan selalu ditaati warga di Bali.
+Kalaksa Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Jawa Timur Gatot Soebroto mengatakan, ketiga gempa yang terjadi tidak berpotensi tsunami. ”Tidak ada korban jiwa. Di beberapa titik terdampak terasa getaran saja,” terang Gatot.
 
-Namun, sebuah video yang viral di media sosial menunjukkan seseorang melawan pecalang dan berusaha membuka palang yang menutup jalan di Desa Sumberklampok, Kecamatan Gerokgak, Kabupaten Buleleng.
+Gatot menambahkan, BPBD Provinsi Jatim terus menyebarluaskan melalui media komunikasi yang ada terkait informasi mengenai gempa dan berkoordinasi dengan kabupaten/kota untuk dampak yang ditimbulkan akibat gempa tersebut.
 
-Dalam video tersebut juga nampak beberapa sepeda motor yang terlihat mengantre di belakang palang untuk memasuki kawasan pantai di TNBB Buleleng tersebut.
+Gatot Soebroto mengatakan, tidak ada korban jiwa dalam gempa Tuban.
 
-Dalam keterangan dari Kepala Seksi Humas Polres Buleleng AKP Gede Sumarjaya, Polsek Gerokgak akhirnya menangkap dua orang berinisial AS dan MR terkait kasus tersebut.
+Sebelumnya, gempa berkekuatan 6,6 SR mengguncang Tuban, Jawa Timur. BMKG mencatat, gempa terjadi pukul 16.55, Jumat (14/4).
 
-“Hasil koordinasi yang dilaksanakan kemudian sekira pukul 23.00 wita yang bersangkutan dibawa ke Polsek Gerokgak,” ujar Sumarjaya saat dihubungi pada Jumat (24/3/2023).
+Berdasar data yang diterima JawaPos.com, ada 29 kota/kabupaten yang terasa getaran gempa. Antara lain, Kabupaten Trenggalek, Tulungagung, Nganjuk, Pacitan, Banyuwangi, Sidoarjo, hingga Surabaya.
         ''',
   ),
   News(
     id: 2,
     title:
-        "Gerokgak Tegang, Provokator Perayaan Nyepi di Bali Akhirnya Diamankan Polisi",
+        "Real Madrid vs Chelsea : Los Blancos Gebuk Sepuluh Pemain The Blues 2-0",
     image:
-        "https://media.suara.com/suara-partners/denpasar/thumbs/653x367/2023/03/23/1-gerogak.jpg",
+        "https://editorial.uefa.com/resources/0268-1213d66cff62-91f1c4580788-1000/madrid_vs_chelsea.jpg",
     content: '''
-Video yang menggambarkan kasus buka paksa Portal ke Segara Rupek yang viral oleh seorang warga menggunakan baju loreng membuat suasana di Gerokgak, Kabupaten Buleleng, Provinsi Bali, sempat tegang.
+Real Madrid menang meyakinkan atas Chelsea pada leg pertama perempat final Liga Champions 2022/2023, Kamis (13/4/2023) WIB. Duel yang berlangsung di Santiago Bernabeu ini berakhir dengan skor 2-0 bagi tuan rumah.
+ Gol pertama Madrid dicetak di menit ke-21. Karim Benzema sukses menyerobot bola muntah penyelamatan Kepa atas tendangan Vinicius Junior.Vinicius juga terlibat sebagai assist pada gol kedua Madrid di menit ke-74. Assistnya kepada Marco Asensio dituntaskan dengan tendangan mendatar menggunakan kaki kirinya.
+Agregat 2-0 ini sejatinya sudah cukup bagus bagi Madrid. Akan tetapi, Madrid harus berjuang menjaga keunggulan ini saat bertamu ke kandang Chelsea pada leg kedua nanti.
+Babak Pertama
+Chelsea seketika punya peluang emas di menit ke-2 saat para pemain belakang Madrid tidak di posisinya. Joao Felix yang mendapat umpan terobosan leluasa berlari. Untungnya Eder Militao cepat mengejar dan menutup ruang tembak Felix, sehingga tembakannya mudah diantisipasi oleh kiper Courtois.
+Di menit ke-12, peluang Madrid baru lahir. Namun, peluang ini tercipta dari sudut yang cukup sempit. Karim Benzema yang mengeksekusi tendangan, dengan mudah ditangkap oleh kiper Kepa.
+Gol pemecah kebuntuan tercipta di menit ke-21. Dani Carvajal dengan jeli mengirim umpan lob kepada Vinicius yang coba menerobos pertahanan Chelsea. Tendangannya dihentikan Kepa, tetapi bola muntah langsung disambar Benzema dengan muda.
+Dua menit setelahnya, Chelsea dapat peluang lagi. Reece James yang overlap mengirim umpan ke Raheem Sterling yang merangsek maju. Umpan berhasil disambar, tetapi arah dan kekuatannya terlalu lemah, sehingga mudah bagi Courtois menggagalkannya.
+Madrid mengakhiri babak pertama dengan statistik yang dominan. Selain menguasai 60 persen bola, Madrid melepaskan sepuluh tembakan dan Chelsea hanya tiga kali.
+Susunan Pemain
+Real Madrid (4-3-3): Thibaut Courtois; Dani Carvajal, Eder Militao, David Alaba, Eduardo Camavinga (Antonio Rudiger 71'); Federico Valverde, Toni Kroos (Aurelien Tchouameni 84'), Luka Modric (Dani Ceballos 81'); Rodrygo (Marco Asensio 71'), Karim Benzema, Vinicius Junior.
+Pelatih: Carlo Ancelotti
 
-Warga yang tidak terima dengan ulah pria yang dituding provokator dan mengganggu jalannya Nyepi itu pun mulai berkumpul di sepanjang jalur utama Jembrana-Negara.
-
-Untuk diketahui, saat Nyepi akses ke Pantai Segara Rupek memang ditutup untuk umum. Tapi, beberapa warga pendatang malah memaksa masuk dan membuka portal dan dinilai tidak menghormati Hari Raya Nyepi.
-
-Mereka juga dinilai sudah melecehkan pecalang atau pengamanan adat yang mengingatkan bahwa saat ini Nyepi.
-
-"Tapi, pria berbaju loreng itu ngotot bahkan berkoar dirinya tidak takut. Meski Kapolda Bali datang ke lokasi sembari mempersilahkan warga yang datang dengan sepeda motor untuk masuk ke lokasi.
-
-Viralnya video itu di media sosial direspons cepat jajaran Polsek Gerokgak. Saat Nyepi atau Rabu 22 Maret 2023 malam, petugas mengamankan dua pria yang dituding sebagai provokator termasuk si pria berbaju loreng.
+Chelsea (3-5-2): Kepa Arrizabalaga; Wesley Fofana, Thiago Silva (Mason Mount 76'), Kalidou Koulibaly (Marc Cucurella 55'); Reece James, N’Golo Kante (Conor Gallagher 75'), Enzo Fernandez, Mateo Kovacic, Ben Chilwell; Raheem Sterling (Kai Havertz 65'), Joao Felix (Trevoh Chalobah 65').
+Pelatih: Frank Lampard (Interim)
 
 ''',
   ),
    News(
     id: 3,
-    title: "Rupiah Kian Perkasa, Dollar AS Setara Rp 14.705",
+    title: "Persikabo 1973 Jadi Lawan Pamungkas Persib di BRI Liga 1, David da Silva Ingin Cetak Hattrick",
     image:
-        "https://asset.kompas.com/crops/v-rYoZu2DSro35cTpJ7Jlid22EM=/0x2:997x667/750x500/data/photo/2019/11/21/5dd61da2dde85.jpg",
+        "https://cdn-2.tstatic.net/wow/foto/bank/images/persib-bandung-vs-ps-tira-persikabo-33333.jpg",
     content: '''
-Nilai tukar rupiah terhadap dollar AS di pasar spot kian menguat. Apresiasi mata uang Garuda selaras dengan koreksi indeks dollas AS yang berlanjut.
-Mengacu data Bloomberg, nilai tukar rupiah terhadap dollar AS berada di level Rp 14.705 pada penutupan perdagangan Jumat (14/4/2023) hari ini. Posisi itu menguat 0,28 persen dari penutupan sebleumya sebesar Rp 14.746 per dollar AS.
-Sementara itu, mengacu kurs tengah pasar valuta asing atau Jisdor, nilai tukar rupiah pada Jumat berada pada level Rp 14.666 per dollar AS. Posisi ini jauh lebih rendah dari hari sebelumnya sebesar Rp 14.792 per dollar AS.
-Apresiasi rupiah itu selaras dengan indeks dollar AS yang terkoreksi. Mengacu data Investing, greenback saat ini berada pada kisaran 100,65.
-Analis sekaligus Direktur PT Laba Forexindo Berjangka Ibrahim Assuaibi mengatakan, salah satu sentimen yang mendorong pelemahan dollar AS ialah rilis indeks harga produsen (PPI) Negeri Paman Sam. Tercatat pada Maret lalu PPI AS melemah 0,5 persen.
+Laga pamungkas Persib Bandung di BRI Liga 1 2022/2023 diakui striker andalan Maung Bandung, David da Silva, akan menjadi laga yang sangat sulit.
+
+Seperti diketahui Persib Bandung akan mengakhiri BRI Liga 1 musim ini dengan menjamu Persikabo 1973 di Stadion Gelor Bandung Lautan Api (GBLA), Sabtu (15/4/2023) malam WIB.
+"Pertandingan ini akan menjadi sangat sulit, tetapi saya sangat senang karena akan bermain di GBLA dan bermain di depan bobotoh," ujar David da Silva.
+
+"Saya mengajak bobotoh untuk datang dan mendukung kami dalam laga tersebut. Saya tahu betapa penting laga terakhir ini meski target kami menjadi juara sudah tidak bisa diwujudkan," lanjut striker Persib Bandung itu.
 ''',
   ),
   News(
