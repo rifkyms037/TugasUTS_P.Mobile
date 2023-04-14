@@ -42,63 +42,43 @@ Viralnya video itu di media sosial direspons cepat jajaran Polsek Gerokgak. Saat
 
 ''',
   ),
-  News(
+   News(
     id: 3,
-    title: "Rayakan Ulang Tahun ke-9, Suara.com Luncurkan Nexus Creator Hub",
+    title: "Rupiah Kian Perkasa, Dollar AS Setara Rp 14.705",
     image:
-        "https://media.suara.com/pictures/970x544/2023/03/13/83672-ulang-tahun-9-suaracom-suwarjono.jpg",
+        "https://asset.kompas.com/crops/v-rYoZu2DSro35cTpJ7Jlid22EM=/0x2:997x667/750x500/data/photo/2019/11/21/5dd61da2dde85.jpg",
     content: '''
-Direktur Utama PT Arkadia Digital Media, Suwarjono memberikan sambutan saat perayaan Ulang Tahun ke-9 Suara.com di Kuningan, Jakarta, Senin (13/3/2023). Bersamaan dengan perayaan ulang tahun ke-9 portal berita Suara.com, Arkadia Digital Media, selaku perusahaan induk meluncurkan platform sekaligus program baru bernama Nexus Creator Hub.
-
-Nexus Creator Hub menjadi wadah yang berisi ratusan kreator konten dari berbagai platform media sosial telah bergabung, baik untuk mengikuti program inkubasi maupun partnership.
-
-Dalam sambutannya, Suwarjono menjelaskan peluncuran Nexus Creator Hub ini beranjak dari perkembangan terkini di dunia digital, di mana keberadaan dan peran para content creator, seperti influencer atau key opinion leaders (KOL), semakin dibutuhkan.
-
-“Selain produk jurnalisme, stakeholder media juga membutuhkan keberadaan para content creator, influencer, key opinion leaders. Hal ini membuat permintaan dari brand, perusahaan, maupun lembaga, terhadap mereka pun semakin tinggi untuk dilibatkan dalam campaign-campaign," ungkap Suwarjono.
-
+Nilai tukar rupiah terhadap dollar AS di pasar spot kian menguat. Apresiasi mata uang Garuda selaras dengan koreksi indeks dollas AS yang berlanjut.
+Mengacu data Bloomberg, nilai tukar rupiah terhadap dollar AS berada di level Rp 14.705 pada penutupan perdagangan Jumat (14/4/2023) hari ini. Posisi itu menguat 0,28 persen dari penutupan sebleumya sebesar Rp 14.746 per dollar AS.
+Sementara itu, mengacu kurs tengah pasar valuta asing atau Jisdor, nilai tukar rupiah pada Jumat berada pada level Rp 14.666 per dollar AS. Posisi ini jauh lebih rendah dari hari sebelumnya sebesar Rp 14.792 per dollar AS.
+Apresiasi rupiah itu selaras dengan indeks dollar AS yang terkoreksi. Mengacu data Investing, greenback saat ini berada pada kisaran 100,65.
+Analis sekaligus Direktur PT Laba Forexindo Berjangka Ibrahim Assuaibi mengatakan, salah satu sentimen yang mendorong pelemahan dollar AS ialah rilis indeks harga produsen (PPI) Negeri Paman Sam. Tercatat pada Maret lalu PPI AS melemah 0,5 persen.
 ''',
   ),
   News(
     id: 4,
-    title: "Jefri Nichol Damprat Penulis Media Online: Orang Gak Punya Otak",
+    title: "Mudik ke Sumatera Pakai Mobil Listrik? Catat Lokasi Stasiun Pengisian PLN Lampung",
     image:
-        "https://media.suara.com/suara-partners/selebtek/thumbs/653x367/2022/09/02/1-jefri-nichol.jpg",
+        "https://asset.kompas.com/crops/lqXZUnRaXFuN0-WX2ziMhGj8rdY=/0x133:1600x1200/750x500/data/photo/2023/01/19/63c8f60c42647.jpeg",
     content: '''
-Jefri Nichol ngamuk di Twitter dan menyemprot penulis di salah satu portal media online. Ia kesal gara-gara sebuah artikel terkait dirinya.
-
-Melalui cuitannya, Jefri Nichol menyoroti artikel yang berjudul "Ring Tinju Jefri Nichol, Simbol Kemunduran Peradaban."  
-
-Jefri Nichol lantas me-retweet cuitan akun portal tersebut. Tak hanya itu, ia meluapkan kekesalannya dengan kata-kata kasar dan menandai langsung akun si penulis.
-
-"Kumparan, lo coba nyari jurnalis yang enggak b*go-b*go amat dah, nyari info yang ada di medsos aja salah," cuit Jefri Nichol.
-
-Tidak sampai di situ, Jefri Nichol menyentil kata-kata yang tertulis dalam judul artikel. Ia tak terima aksi adu jotos di dalam ring tinju dianggap kemunduran peradaban.
-
-Ia menyebut si penulis tidak becus dalam bekerja lantaran tidak melakukan riset dengan benar. 
-"Ngomong soal kemunduran peradaban tapi riset aja kaga becus @prabu_***," cuitnya.
-
-Setelah ditelusuri, akun penulis artikel tersebut seolah menjawab kekesalan Jefri Nichol melalui deskripsi dalam bio-nya.
-
-"Kalau tulisan saya menyinggung Anda, saya tidak peduli," tulis @prabu_*** sambil menyematkan emoji jari tengah.
+PLN Unit Induk Distribusi (UID) Lampung menyiagakan lima titik Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) selama arus mudik dan arus balik lebaran 2023. 
+SPKLU ini dioperasikan untuk menjamin ketersediaan bahan bakar lbagi pemudik yang menempuh perjalanan dengan kendaraan listrik di Lampung. 
+General Manager (GM) PLN UID Lampung Saleh Siswanto mengatakan empat dari lima SPKLU ini ada di jalan tol. 
+"Empat SPKLU di rest area jalan tol Lampung dan satu di dalam Kota Bandar Lampung," kata Saleh dalam gathering bersama awak media, Jumat (14/4/2023) malam.
+SPKLU yang berada di dalam jalan tol yakni rest area KM 49A dan KM 163A. SPKLU ini melayani pemudik yang datang dari arah Bakauheni (Lampung Selatan) tujuan arah Sumatera Selatan. 
+Kemudian untuk melayani pemudik dari arah sebaliknya atau dari arah Sumatera Selatan menuju Pelabuhan Bakauheni, SPKLU berada di rest area KM 172B dan KM 20B.
 ''',
   ),
   News(
       id: 5,
-      title: "Diskominfo-SP Luncurkan Portal Satu Data Sulawesi Selatan",
+      title: "PDI-P Dinilai 90 Persen Usung Ganjar Capres, Pengamat: Mbak Puan, Wassalam",
       image:
-          "https://media.suara.com/pictures/653x366/2022/11/18/78435-satu-data.webp",
+          "https://asset.kompas.com/crops/mQW2_8D9O6QdANyWqJbiJ33GveQ=/0x2:1917x1280/750x500/data/photo/2022/10/26/6358ff0f51de0.jpg",
       content: '''
-Dinas Komunikasi, Informatika, Statistik dan Persandian (Diskominfo-SP) Provinsi Sulawesi Selatan meluncurkan Portal Satu Data Sulawesi Selatan Tahun 2022 di Gammara Hotel Makassar, Jumat (18/11/2022).
-
-Peluncuran portal tersebut merupakan rangkaian dari kegiatan peningkatan mutu statistik daerah dan sekaligus Pengukuhan Forum Satu Data Sulsel.
-
-Kegiatan tersebut dihadiri oleh perwakilan BPS Sulsel, Pejabat Administrator dan Pengawas Lingkup Diskominfo-SP Sulsel, perwakilan Dinas Kominfo, Dinas Statistik, dan Bappelitbangda Kabupaten/Kota se-Sulsel, serta pengelola data sektoral Perangkat Daerah Lingkup Pemprov Sulsel.
-
-Dalam sambutannya mewakili Gubernur Sulsel, Asisten III Bidang Administrasi Tautoto Tana Ranggina mengapresiasi kegiatan peluncuran Portal Satu Data, Pengukuhan Forum Satu Data dan MOU untuk mendukung Satu Data Sulsel tersebut.
-
-"Ini sebagai bagian dari penguatan koordinasi serta komitmen bersama. Dalam mewujudkan satu data Indonesia, khususnya di tingkat Provinsi Sulawesi Selatan, serta mendukung proses pengambilan keputusan berbasis data," kata Tautoto.
-
-Lebih lanjut, ia mengatakan bahwa data mempunyai peranan penting dalam penyusunan, perencanaan, pelaksanaan dan pengendalian pembangunan suatu daerah.
+Pengamat politik sekaligus pendiri Lingkar Madani (Lima) Ray Rangkuti berpandangan, peluang Ganjar Pranowo dicalonkan sebagai calon presiden (capres) oleh PDI-P mencapai 90 persen. 
+Sebab, menurutnya, PDI-P tak kunjung menyampaikan status Puan Maharani apakah diajukan sebagai capres atau tidak pada 2024. 
+"Sejauh apa potensi Ganjar menjadi capres? Kalau saya sih melihat PDI-P itu sudah pada tahap 90 persen mendukung Ganjar sebagai calon presiden," kata Ray dalam diskusi Para Syndicate bertajuk "Koalisi Besar untuk Siapa: Ganjar atau Prabowo atau?" Jumat (14/4/2023). 
+"Kalau sampai akhir Maret 2023, PDI-P tidak menjelaskan status Mbak Puan apakah dia dicalonkan sebagai calon presiden atau sebagai calon wakil presiden, tidak ada lagi figur dari PDI Perjuangan kecuali Ganjar," ujarnya lagi.
 '''),
   News(
     id: 6,
